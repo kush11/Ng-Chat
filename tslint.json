@@ -23,6 +23,7 @@
     ],
     "import-blacklist": [
       true,
+      "rxjs",
       "rxjs/Rx"
     ],
     "interface-name": false,
